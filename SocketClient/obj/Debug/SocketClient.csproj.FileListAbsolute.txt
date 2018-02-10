@@ -1,0 +1,6 @@
+F:\文件资料\练手\Socket应用\SocketWorkshop\SocketClient\bin\Debug\SocketClient.exe.config
+F:\文件资料\练手\Socket应用\SocketWorkshop\SocketClient\bin\Debug\SocketClient.exe
+F:\文件资料\练手\Socket应用\SocketWorkshop\SocketClient\bin\Debug\SocketClient.pdb
+F:\文件资料\练手\Socket应用\SocketWorkshop\SocketClient\obj\Debug\SocketClient.exe
+F:\文件资料\练手\Socket应用\SocketWorkshop\SocketClient\obj\Debug\SocketClient.pdb
+F:\文件资料\练手\Socket应用\SocketWorkshop\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
